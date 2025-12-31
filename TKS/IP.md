@@ -1,4 +1,4 @@
-Связанные: [[MAC]], [[DHCP]], [[DNS]], [[VoIP]], [[OSI]]
+Связанные: [[MAC]], [[DHCP]], [[DNS]], [[VoIP]], [[OSI]], [[Маска]], [[NAT]]
 
 **Internet Protocol**
 
