@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "a662d08ffd4a00df",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ee1adff2b1ae369",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b36b061d0ade998",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Процессор.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Процессор"
+            }
+          },
+          {
+            "id": "ba1870475cddcaff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Арифметико-логические устройства. Определение, структура, подход к проектированию, основные уравнения работы АЛУ (пример синтеза выражения). Особенности знаковой и беззнаковой арифметики..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Арифметико-логические устройства. Определение, структура, подход к проектированию, основные уравнения работы АЛУ (пример синтеза выражения). Особенности знаковой и беззнаковой арифметики."
+            }
+          },
+          {
+            "id": "74d852a16b5e7f2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Цифровые интегральные схемы (ИС).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Цифровые интегральные схемы (ИС)"
+            }
+          },
+          {
+            "id": "24eba7323ce7c1fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Процессоры. Определение,ĸлассифиĸация, заĸономерностиразвития, области применения. Обобщенная струĸтурамиĸропроцессора. Общий алгоритмфунĸционирования..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Процессоры. Определение,ĸлассифиĸация, заĸономерностиразвития, области применения. Обобщенная струĸтурамиĸропроцессора. Общий алгоритмфунĸционирования."
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "167a7eac3b025f1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "63dc0f5e2144d0bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad0777210cf66d1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6bafbc8db8f349c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "783af4330c6b67f0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ea389614efcf2f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "af9005606439171b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47550addc240e7b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Арифметико-логические устройства. Определение, структура, подход к проектированию, основные уравнения работы АЛУ (пример синтеза выражения). Особенности знаковой и беззнаковой арифметики..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2. Арифметико-логические устройства. Определение, структура, подход к проектированию, основные уравнения работы АЛУ (пример синтеза выражения). Особенности знаковой и беззнаковой арифметики."
+            }
+          },
+          {
+            "id": "7faa17d74d820365",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Арифметико-логические устройства. Определение, структура, подход к проектированию, основные уравнения работы АЛУ (пример синтеза выражения). Особенности знаковой и беззнаковой арифметики..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2. Арифметико-логические устройства. Определение, структура, подход к проектированию, основные уравнения работы АЛУ (пример синтеза выражения). Особенности знаковой и беззнаковой арифметики."
+            }
+          },
+          {
+            "id": "36aa4487b173b095",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7884845725d056af",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "53ebeab2edf9531d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. Арифметико-логические устройства. Определение, структура, подход к проектированию, основные уравнения работы АЛУ (пример синтеза выражения). Особенности знаковой и беззнаковой арифметики..md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2. Арифметико-логические устройства. Определение, структура, подход к проектированию, основные уравнения работы АЛУ (пример синтеза выражения). Особенности знаковой и беззнаковой арифметики."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ba1870475cddcaff",
+  "lastOpenFiles": [
+    "Pasted image 20260105005416.png",
+    "Pasted image 20260105003014.png",
+    "Pasted image 20260105003005.png",
+    "Pasted image 20260105003001.png",
+    "Pasted image 20260105003000.png",
+    "Pasted image 20260105002948.png",
+    "Pasted image 20260105002941.png",
+    "Pasted image 20260105002930.png",
+    "Pasted image 20260105002917.png",
+    "Pasted image 20260105002909.png",
+    "Pasted image 20260105002855.png",
+    "Процессор.md",
+    "2. Арифметико-логические устройства. Определение, структура, подход к проектированию, основные уравнения работы АЛУ (пример синтеза выражения). Особенности знаковой и беззнаковой арифметики..md",
+    "1. Процессоры. Определение,ĸлассифиĸация, заĸономерностиразвития, области применения. Обобщенная струĸтурамиĸропроцессора. Общий алгоритмфунĸционирования..md",
+    "Цифровые интегральные схемы (ИС).md",
+    "Принципы фон Неймана.md",
+    "Микроархитектура.md",
+    "Архитектура.md",
+    "media"
+  ]
+}
