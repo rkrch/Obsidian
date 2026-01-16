@@ -96,3 +96,8 @@ sudo sh get-docker.sh
 2. **GPG-ключ** обеспечивает безопасность - пакеты проверяются на подлинность
 3. **Группа docker** избавляет от необходимости постоянно писать `sudo`
 4. **Containerd** - это "мозг" Docker, который реально управляет контейнерами
+
+
+nginx-proxy
+ docker-compose -f docker-compose.web.yml up -d
+ docker-compose -f ~/web/docker-compose.web.yml restart

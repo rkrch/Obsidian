@@ -1,13 +1,14 @@
 ```
 ssh server@192.168.1.35
 http://172.18.55.199:8100/#world:0:0:0:1500:0:0:0:1:flat
-ssh rosadm@172.18.55.199
+ssh server@172.18.55.199
 ```
 
+## Сейчас:
 
 **Dockerfile**
 ```Dockerfile
-# Используем Ubuntu-based образ вместо Alpine
+# Debian-based образ
 FROM eclipse-temurin:21-jdk-jammy
 
 # Build arguments
@@ -160,17 +161,13 @@ docker attach ...
 - **Обновить Paper.jar:**
 1. Остановите контейнер: `docker-compose stop`.
 2. Замените файл `./data/paper-1.21.1-....jar` на новый.
-3. Измените имя файла в `docker-compose.yml` (переменная `JAR_FILE`) или переименуйте новый jar под старое имя.
-4. Запустите: `docker-compose up -d`.
+3. Изменить имя файла в `docker-compose.yml` (переменная `JAR_FILE`)
+4.  `docker-compose up -d`.
 
-- **Сделать бэкап:**  
-Просто архивируйте папку `./data` (кроме possibly `cache` или временных файлов).
+## Test
+**docker**
 
-# Список дел
+## Список дел
 
-бляяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяя
-чинить всё
-
-узнать про RCON
-
-перенести на 1.21.11 ?
+prometheus 
+grafana

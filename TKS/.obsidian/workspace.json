@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d704a8ffb7a9a84e",
+        "id": "a57d79f8ca134ec5",
         "type": "tabs",
         "children": [
           {
-            "id": "ed83356d2a541325",
+            "id": "23b0e15484fd1cee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,27 +184,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "ed83356d2a541325",
+  "active": "23b0e15484fd1cee",
   "lastOpenFiles": [
     "Docker.md",
     "Docker майн.md",
-    "Сеансовый уровень.md",
+    "nmap.md",
     "OSI.md",
-    "SSH.md",
-    "Маршрутизатор (Роутер).md",
+    "MAC.md",
+    "multicast.md",
+    "EIGRP.md",
+    "LAN.md",
+    "IP.md",
     "DHCP.md",
+    "Маршрутизатор (Роутер).md",
+    "SSH.md",
+    "Сеансовый уровень.md",
     "Untitled.canvas",
     "Untitled.base",
-    "nmap.md",
-    "MAC.md",
     "DNS.md",
     "NAT.md",
-    "LAN.md",
     "VLAN.md",
-    "IP.md",
     "Маска.md",
     "Коммутатор (Switch).md",
-    "EIGRP.md",
     "Физический уровень.md",
     "broadcast.md",
     "Хаб.md",
@@ -212,7 +213,6 @@
     "WAN.md",
     "VoIP.md",
     "TCP.md",
-    "UDP.md",
-    "Мост.md"
+    "UDP.md"
   ]
 }

@@ -55,6 +55,7 @@ docker pull python:latest # качать моэно сразу в `run`
 
 docker commit name name2:tag
 # создаёт из изменённого относительно образа контейнера новый образ 
+cat /sys/class/thermal/thermal_zone*/temp | awk '{print $1/1000 "°C"}'
 
 docker builder prune # (-a) - удаляет кэш
 ducker system prune # удалит остановленные контейнеры, неиспользуемые сети, образы, кэш

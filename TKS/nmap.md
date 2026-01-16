@@ -13,7 +13,7 @@ _syn -> syn ack -> rst_
 `sudo nmap -sS ip --reason` - показывает прчину по которой считает открытым порт. напр. syn ack
 
 ### `-sT`  - флаг по умолчанию при `nmap`
-`sudo nmap -sS ip`
+`sudo nmap -s ip`
 _syn -> syn ack -> ack, rst_
 
 ### `-sn` 
