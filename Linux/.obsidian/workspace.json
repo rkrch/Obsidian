@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NGINX.md",
+                "file": "grep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NGINX"
+              "title": "grep"
             }
           }
         ],
@@ -187,11 +187,11 @@
   },
   "active": "f52228ed47ad6ee4",
   "lastOpenFiles": [
-    "Установка Docker в терминале.md",
-    "NGINX.md",
-    "Minecraft server.md",
-    "Установка Docker 1.md",
     "Главная.md",
+    "Minecraft server.md",
+    "NGINX.md",
+    "Установка Docker в терминале.md",
+    "Установка Docker 1.md",
     "tail.md",
     "head.md",
     "chown.md",

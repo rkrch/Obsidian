@@ -8,3 +8,6 @@ password 65
 
 внутри команды майновские и лп
 sudo su -c " tmux attach -t ms " Mine
+
+
+
