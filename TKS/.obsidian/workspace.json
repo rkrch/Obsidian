@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker майн.md",
+                "file": "OSI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker майн"
+              "title": "OSI"
             }
           }
         ],
@@ -186,7 +186,18 @@
   },
   "active": "2d811b3480565e4f",
   "lastOpenFiles": [
+    "Docker майн.md",
+    "WAN.md",
+    "Сеансовый уровень.md",
+    "Физический уровень.md",
+    "Хаб.md",
+    "Docker.md",
+    "Pasted image 20260120101144.png",
     "OSI.md",
+    "MAC.md",
+    "Ethernet.md",
+    "ICMP.md",
+    "EIGRP.md",
     "SDN.md",
     "RIP.md",
     "NAT.md",
@@ -196,29 +207,18 @@
     "Маршрутизатор (Роутер).md",
     "TCP.md",
     "Pasted image 20260120102133.png",
-    "Pasted image 20260120101144.png",
     "Pasted image 20260120100856.png",
-    "MAC.md",
     "LLDP.md",
-    "EIGRP.md",
     "ARP.md",
-    "ICMP.md",
     "Pasted image 20260119111814.png",
     "DHCP.md",
     "Pasted image 20260119132249.png",
     "IP.md",
-    "Docker майн.md",
-    "Docker.md",
     "nmap.md",
     "LAN.md",
     "SSH.md",
-    "Сеансовый уровень.md",
     "Untitled.canvas",
     "Untitled.base",
-    "DNS.md",
-    "VLAN.md",
-    "Маска.md",
-    "Коммутатор (Switch).md",
-    "Физический уровень.md"
+    "DNS.md"
   ]
 }

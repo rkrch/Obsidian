@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grep.md",
+                "file": "Главная.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "grep"
+              "title": "Главная"
             }
           }
         ],
@@ -187,9 +187,12 @@
   },
   "active": "f52228ed47ad6ee4",
   "lastOpenFiles": [
-    "Главная.md",
-    "Minecraft server.md",
     "NGINX.md",
+    "sudo.md",
+    "Главная.md",
+    "pwd.md",
+    "grep.md",
+    "Minecraft server.md",
     "Установка Docker в терминале.md",
     "Установка Docker 1.md",
     "tail.md",
@@ -201,15 +204,12 @@
     "mv.md",
     "ls.md",
     "cd.md",
-    "pwd.md",
     "htop.md",
     "rm.md",
-    "grep.md",
     "find.md",
     "kill.md",
     "top.md",
     "ps.md",
-    "sudo.md",
     "`ls`.md",
     "vim.md",
     "nano.md",
