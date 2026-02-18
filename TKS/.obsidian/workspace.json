@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d811b3480565e4f",
+            "id": "cfc927c73ad67bcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSI.md",
+                "file": "nmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OSI"
+              "title": "nmap"
             }
           }
         ],
@@ -184,41 +184,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "2d811b3480565e4f",
+  "active": "cfc927c73ad67bcf",
   "lastOpenFiles": [
+    "Asterisk.md",
     "Docker майн.md",
+    "Протоколы динамической маршрутизации.md",
+    "RIP.md",
+    "OSPF.md",
+    "Pasted image 20260209155649.png",
+    "DHCP.md",
+    "EIGRP.md",
+    "Pasted image 20260209155608.png",
+    "DNS.md",
+    "CISCO.md",
+    "Хаб.md",
+    "Маршрутизатор.md",
+    "TCP.md",
+    "Pasted image 20260205224920.png",
+    "Pasted image 20260205224915.png",
+    "OSI.md",
     "WAN.md",
     "Сеансовый уровень.md",
     "Физический уровень.md",
-    "Хаб.md",
     "Docker.md",
     "Pasted image 20260120101144.png",
-    "OSI.md",
     "MAC.md",
     "Ethernet.md",
     "ICMP.md",
-    "EIGRP.md",
     "SDN.md",
-    "RIP.md",
     "NAT.md",
     "Pasted image 20260120104801.png",
     "multicast.md",
     "Маршрутизация.md",
     "Маршрутизатор (Роутер).md",
-    "TCP.md",
     "Pasted image 20260120102133.png",
     "Pasted image 20260120100856.png",
     "LLDP.md",
-    "ARP.md",
     "Pasted image 20260119111814.png",
-    "DHCP.md",
     "Pasted image 20260119132249.png",
-    "IP.md",
-    "nmap.md",
-    "LAN.md",
-    "SSH.md",
     "Untitled.canvas",
-    "Untitled.base",
-    "DNS.md"
+    "Untitled.base"
   ]
 }
