@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "a662d08ffd4a00df",
+    "id": "65fe687244a6769b",
     "type": "split",
     "children": [
       {
-        "id": "e200686cf7a52432",
+        "id": "5409a8c2371b28c6",
         "type": "tabs",
         "children": [
           {
-            "id": "95a89090b48f4cfd",
+            "id": "d23fe408a70a8205",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7..md",
+                "file": "Языки/Основа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7."
+              "title": "Основа"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "167a7eac3b025f1f",
+    "id": "d9feadce49a599d1",
     "type": "split",
     "children": [
       {
-        "id": "63dc0f5e2144d0bc",
+        "id": "144d30a326bbae41",
         "type": "tabs",
         "children": [
           {
-            "id": "ad0777210cf66d1f",
+            "id": "17b5b021ee09467d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "6bafbc8db8f349c9",
+            "id": "d6ac3e2be38c0395",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "783af4330c6b67f0",
+            "id": "84d43d3c5adde0d1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "8ea389614efcf2f3",
+    "id": "c0901738ce9621ea",
     "type": "split",
     "children": [
       {
-        "id": "af9005606439171b",
+        "id": "786868899bab5147",
         "type": "tabs",
         "children": [
           {
-            "id": "47550addc240e7b2",
+            "id": "ad739b93d0e789b1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Арифметико-логические устройства. Определение, структура, подход к проектированию, основные уравнения работы АЛУ (пример синтеза выражения). Особенности знаковой и беззнаковой арифметики..md",
+                "file": "Страны/Новая Зеландия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Арифметико-логические устройства. Определение, структура, подход к проектированию, основные уравнения работы АЛУ (пример синтеза выражения). Особенности знаковой и беззнаковой арифметики."
+              "title": "Backlinks for Новая Зеландия"
             }
           },
           {
-            "id": "7faa17d74d820365",
+            "id": "6f9b0be10c87001d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Арифметико-логические устройства. Определение, структура, подход к проектированию, основные уравнения работы АЛУ (пример синтеза выражения). Особенности знаковой и беззнаковой арифметики..md",
+                "file": "Страны/Новая Зеландия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. Арифметико-логические устройства. Определение, структура, подход к проектированию, основные уравнения работы АЛУ (пример синтеза выражения). Особенности знаковой и беззнаковой арифметики."
+              "title": "Outgoing links from Новая Зеландия"
             }
           },
           {
-            "id": "36aa4487b173b095",
+            "id": "85f29b89a9f995d8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "7884845725d056af",
+            "id": "9175f6c1f0208aaa",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +151,18 @@
             }
           },
           {
-            "id": "53ebeab2edf9531d",
+            "id": "99c7f77eb82f9d94",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Арифметико-логические устройства. Определение, структура, подход к проектированию, основные уравнения работы АЛУ (пример синтеза выражения). Особенности знаковой и беззнаковой арифметики..md",
+                "file": "Страны/Новая Зеландия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Арифметико-логические устройства. Определение, структура, подход к проектированию, основные уравнения работы АЛУ (пример синтеза выражения). Особенности знаковой и беззнаковой арифметики."
+              "title": "Outline of Новая Зеландия"
             }
           }
         ]
@@ -183,45 +183,37 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "95a89090b48f4cfd",
+  "active": "d23fe408a70a8205",
   "lastOpenFiles": [
-    "6.old.md",
-    "D-защёлка.md",
-    "Pasted image 20260104230644.png",
-    "Цифровые интегральные схемы (ИС).md",
-    "5.old.md",
-    "2..md",
-    "1..md",
-    "1.old.md",
-    "21..md",
-    "22..md",
-    "Pasted image 20260109115943.png",
-    "14..md",
-    "13..md",
-    "18..md",
-    "9..md",
-    "4.old.md",
-    "3.old.md",
-    "2.old.md",
-    "17..md",
-    "Pasted image 20260105003005.png",
-    "20..md",
-    "19..md",
-    "Untitled.md",
-    "12..md",
-    "11..md",
-    "10..md",
-    "Untitled",
-    "8..md",
-    "7..md",
-    "6..md",
-    "Pasted image 20260106173921.png",
-    "Pasted image 20260106171741.png",
-    "Pasted image 20260105171614.png",
-    "Pasted image 20260105171522.png",
-    "Pasted image 20260105171500.png",
-    "Pasted image 20260105171443.png",
-    "Pasted image 20260105171424.png",
-    "media"
+    "Страны/Испания.md",
+    "Страны/Италия.md",
+    "Языки/Основа.md",
+    "Немецкий язык.md",
+    "Языки/Французский язык.md",
+    "Языки/Португальский язык.md",
+    "Языки/Испанский язык.md",
+    "Страны/Австрия.md",
+    "Страны/Без названия.md",
+    "Страны/Швейцария.md",
+    "Страны/Ирландия.md",
+    "Страны/Великобритания.md",
+    "Media/Regions_UK.jpg",
+    "Media/Bilingual_signs.jpg",
+    "Media/flag_argentina_enl.jpg",
+    "Media/flag_indonezija_new.jpg",
+    "Страны/Гватемала.md",
+    "Страны/Гонконг.md",
+    "Страны/Панама.md",
+    "Без названия.md",
+    "Левостороннее движение.md",
+    "Страны/Макау.md",
+    "Страны/Новая Зеландия.md",
+    "Страны/Австралия.md",
+    "Страны/Филипины.md",
+    "Языки/Итальянский язык.md",
+    "Страны/Перу.md",
+    "Языки/Каталонский язык.md",
+    "Страны/Christmas Island.md",
+    "Страны/Малазия.md"
   ]
 }
